@@ -1,0 +1,65 @@
+.navbar {
+        background: rgba(0, 0, 0, .7);
+        padding: 0;
+    }
+    .navbar-nav {
+        float: right;
+        
+}
+.navbar-toggle {
+    background-color: rgba(0, 0, 0, 0.1);
+    border: 1px solid #fff;
+    border-radius: 2px;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+.navbar-toggle nav navbar-nav {
+    float: right;
+}
+.navbar-nav li a{
+    color: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 700;
+    word-spacing: 10px;
+}
+.navbar-nav>li>a:hover,
+.navbar-nav>li>a:focus {
+    background: none;
+    color: #34c6d3;
+}
+.navbar-brand h3{
+     font-family: "Roboto Condensed" sans-serif;
+     padding: 3px;
+     color: white;
+    padding-left: 10px;
+    padding-top: 1px;
+    margin: -3px;
+    border: 2px solid white;
+    border-radius: 6px;
+    border-color: aqua;
+    font-size: 27px;
+    border-style:groove;
+    text-transform: uppercase;
+
+}
+
+body {
+    background-color: black;
+}
+#col-sm-12 h2 {
+    color: white;
+}
+#col-sm-12 p {
+    color: #fff;
+    
+}
+.jumbotron{
+    background-color: #34c6d3;
+}
+h2{
+    text-align: center;
+}
